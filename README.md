@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Letícia Mendanha
 
-**`Análise e Desenvolvimento de Sistemas (ADS) `**
+**`Técnico em Desenvolvimento de Sistemas`**
 
 Este repositório é dedicado a **projetos academicos e estudos práticos** de **Tecnologia da informação**, com foco em **desenvolvimento de sistemas e análise de dados**.
 
