@@ -4,7 +4,7 @@
 
 Este repositório é dedicado a **projetos academicos e estudos práticos** de **Tecnologia da informação**, com foco em **desenvolvimento de sistemas e análise de dados**.
 
-🎓ADS- Conclusão prevista : **11/2026**
+🎓 Conclusão prevista : **11/2026**
 
 <p align="left">
     <a href="https://github.com/Leticia-Mendanha?tab=stars">
